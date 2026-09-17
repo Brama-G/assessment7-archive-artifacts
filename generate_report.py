@@ -22,6 +22,10 @@ def generate_report():
              "status": "PASS", "date": "2026-09-10 10:05:00"},
             {"student": "Charlie", "score": 1, "total": 5, "percentage": 20.0,
              "status": "FAIL", "date": "2026-09-10 10:10:00"},
+            {"student": "Dhruv", "score": 4, "total": 5, "percentage": 80.0,
+             "status": "PASS", "date": "2026-09-10 10:15:00"},
+            {"student": "Ezhil", "score": 4, "total": 5, "percentage": 80.0,
+             "status": "PASS", "date": "2026-09-10 10:15:00"},
         ]
 
     total_students = len(results)
